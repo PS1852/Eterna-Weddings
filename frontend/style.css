@@ -342,6 +342,7 @@ img {
     box-shadow: var(--shadow-soft);
     margin-left: 10%;
     margin-top: 10%;
+    width: 90%; /* Ensure image matches frame size proportions */
 }
 
 /* =========================================
